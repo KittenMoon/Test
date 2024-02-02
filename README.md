@@ -1,13 +1,3 @@
-<img src="static/paimon-og.png" align="right" width="180px"/>
-
-# [Paimon.moe](https://paimon.moe)
-
-Your best Genshin Impact companion! Paimon.moe helps you plan what to farm with ascension calculator and database. It also tracks your progress with a todo list and a wish counter.
-
-Created with [SvelteKit](https://kit.svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/)
-
-# Development
-
 ```
 # install dependencies
 pnpm i
